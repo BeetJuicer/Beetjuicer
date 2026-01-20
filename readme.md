@@ -5,6 +5,7 @@ game dev stuff mostly.
 ## Working on:
 
 **City of Faith (Capstone)** - Bible-based city-building/farming game for android. Made with unity.
+**XinZhao 2xko design** - I'm making xinzhao in an unreal fighting game format as practice. I'll put it here when it's done.
 
 ## Tech Stack:
 ```
@@ -14,13 +15,20 @@ Tools:      Git, Visual Studio
 Interests:  Game Development
 ```
 
+## My itch page:
+**[BeetJuicer](beetjuicer.itch.io)**
+
 ## Look at my projects!
+
+**[City of Faith](https://cityoffaith.site/)** - My capstone project. The repo for this one is private.
 
 **[Pawcasso](https://github.com/BeetJuicer/Pawcasso)** - Movement FPS Game with Splatoon paint mechanics
 
 **[No-Sleep](https://github.com/BeetJuicer/No-Sleep)** - Narrative-Exploration game made for Google Developer Groups GameJam 2025
 
 **[Adventures of Ice Cream and Cake](https://github.com/BeetJuicer/Jame-Gam-Adventures-of-Ice-Cream-and-Cake)** - Jame Gam 3rd place winner
+
+**[Little Penguin](https://github.com/BeetJuicer/CS50x-Little-Penguin)** - My final project in the CS50 course.
 
 ---
 
