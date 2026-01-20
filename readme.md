@@ -16,7 +16,7 @@ Interests:  Game Development
 ```
 
 ## My itch page:
-**[BeetJuicer](beetjuicer.itch.io)**
+**[BeetJuicer](https://beetjuicer.itch.io)**
 
 ## Look at my projects!
 
