@@ -1,23 +1,32 @@
-carl/beetjuicer
-game dev stuff mostly. 
+# carl/beetjuicer
 
-Working on: 
-  City of Faith (Capstone) - Bible-based city-building/farming game for android. Made with unity.
+game dev stuff mostly.
 
-Tech Stack:
+## Working on:
+
+**City of Faith (Capstone)** - Bible-based city-building/farming game for android. Made with unity.
+
+## Tech Stack:
+```
 Languages:  C#, C++, Lua (LOVE), PHP/Laravel
 Engines:    Unity, Unreal Engine
 Tools:      Git, Visual Studio
 Interests:  Game Development
+```
 
-Look at my projects!
-Pawcasso - Movement FPS Game with Splatoon paint mechanics
-No-Sleep - Narrative-Exploration game made for Google Developer Groups GameJam 2025
-Adventures of Ice Cream and Cake - Jame Gam 3rd place winner
+## Look at my projects!
 
+**[Pawcasso](https://github.com/BeetJuicer/Pawcasso)** - Movement FPS Game with Splatoon paint mechanics
 
-P.S That's not me on my profile picture, that's a [filipino celebrity](https://www.google.com/search?q=dingdongdantes).
+**[No-Sleep](https://github.com/BeetJuicer/No-Sleep)** - Narrative-Exploration game made for Google Developer Groups GameJam 2025
+
+**[Adventures of Ice Cream and Cake](https://github.com/BeetJuicer/Jame-Gam-Adventures-of-Ice-Cream-and-Cake)** - Jame Gam 3rd place winner
+
+---
+
+**P.S** That's not me on my profile picture, that's a [filipino celebrity](https://www.google.com/search?q=dingdongdantes).  
 Though some would say I look like him.
 
 Thanks for visiting my repo, boss.
+
 🫜 Here, have a beet.
