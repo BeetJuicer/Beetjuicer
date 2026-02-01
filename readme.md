@@ -22,6 +22,7 @@ Interests:  Game Development
 ## Look at my projects!
 
 **[City of Faith](https://cityoffaith.site/)** - My capstone project. The repo for this one is private.
+
 **[City of Faith Admin CMS](admin.cityoffaith.site)** - A CMS connected to the City of Faith game built for Heroes Church admins to manage bible verses and bible quizzes. Made by me with Laravel Filament.
 
 **[Pawcasso](https://github.com/BeetJuicer/Pawcasso)** - Movement FPS Game with Splatoon paint mechanics
