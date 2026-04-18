@@ -3,10 +3,8 @@
 game dev stuff mostly.
 
 ## Working on:
-
-**City of Faith (Capstone)** - Bible-based city-building/farming game for android. Made with unity.
-
-**XinZhao 2xko design** - I'm making xinzhao in an unreal fighting game format as practice. I'll put it here when it's done.
+**Starbooks Whiz!** - Main gameplay developer for an android quiz game being developed by the Department of Science and Technology. 
+**City of Faith (Capstone)** - Bible-based city-building/farming game for android. Made with unity. Currently in the beta testing phase for playstore release!
 
 ## Tech Stack:
 ```
