@@ -3,7 +3,9 @@
 game dev stuff mostly.
 
 ## Working on:
+
 **Starbooks Whiz!** - Main gameplay developer for an android quiz game being developed by the Department of Science and Technology. 
+
 **City of Faith (Capstone)** - Bible-based city-building/farming game for android. Made with unity. Currently in the beta testing phase for playstore release!
 
 ## Tech Stack:
